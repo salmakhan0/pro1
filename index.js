@@ -1,5 +1,8 @@
 let images = [
-];
+  "./images/flower-1.jpg",
+  "./images/flower-2.jpg",
+  "./images/flower-3.jpg",
+ ];
 let prev = document.getElementById("prev");
 let next = document.getElementById("next");
 let img = document.querySelector(".slide-img");
